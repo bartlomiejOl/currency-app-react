@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "currency": "EUR",
+    "code": "./images/eu.png"
+  },
+  {
+    "id": 2,
+    "currency": "PLN",
+    "code": "./images/pl.png"
+  },
+  {
+    "id": 3,
+    "currency": "USD",
+    "code": "./images/us.png"
+  },
+  {
+    "id": 4,
+    "currency": "CHF",
+    "code": "./images/ch.png"
+  },
+  {
+    "id": 5,
+    "currency": "GBP",
+    "code": "./images/gb.png"
+  },
+  {
+    "id": 6,
+    "currency": "CZK",
+    "code": "./images/czk.png"
+  },
+  {
+    "id": 7,
+    "currency": "NOK",
+    "code": "./images/no.png"
+  },
+  {
+    "id": 8,
+    "currency": "SEK",
+    "code": "./images/se.png"
+  },
+  {
+    "id": 9,
+    "currency": "DKK",
+    "flag": "./images/dk.png"
+  },
+  {
+    "id": 10,
+    "currency": "HUF",
+    "flag": "./images/hu.png"
+  }
+]

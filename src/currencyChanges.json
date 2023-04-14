@@ -1,0 +1,433 @@
+[
+ {
+  "EUR": [
+    {
+      "currency": "EUR",
+      "value": 1
+    },
+    {
+      "currency": "PLN",
+      "value": 4.78
+    },
+    {
+      "currency": "USD",
+      "value": 1.07
+    },
+    {
+      "currency": "SEK",
+      "value": 11.18
+    },
+    {
+      "currency": "CZK",
+      "value": 23.78
+    },
+    {
+      "currency": "DKK",
+      "value": 7.45
+    },
+    {
+      "currency": "CHF",
+      "value": 0.99
+    },
+    {
+      "currency": "HUF",
+      "value": 387.07
+    },
+    {
+      "currency": "NOK",
+      "value": 10.84
+    },
+    {
+      "currency": "GBP",
+      "value": 0.89
+    }
+  ],
+
+  "PLN": [
+    {
+      "currency": "PLN",
+      "value": 1
+    },
+    {
+      "currency": "EUR",
+      "value": 0.21
+    },
+    {
+      "currency": "USD",
+      "value": 0.22
+    },
+    {
+      "currency": "SEK",
+      "value": 2.35
+    },
+    {
+      "currency": "CZK",
+      "value": 4.98
+    },
+    {
+      "currency": "DKK",
+      "value": 1.56
+    },
+    {
+      "currency": "CHF",
+      "value": 0.21
+    },
+    {
+      "currency": "HUF",
+      "value": 81.15
+    },
+    {
+      "currency": "NOK",
+      "value": 2.29
+    },
+    {
+      "currency": "GBP",
+      "value": 0.19
+    }
+  ],
+
+  "USD": [
+    {
+      "currency": "USD",
+      "value": 1
+    },
+    {
+      "currency": "PLN",
+      "value": 4.47
+    },
+    {
+      "currency": "EUR",
+      "value": 0.93
+    },
+    {
+      "currency": "SEK",
+      "value": 10.48
+    },
+    {
+      "currency": "CZK",
+      "value": 22.23
+    },
+    {
+      "currency": "DKK",
+      "value": 6.97
+    },
+    {
+      "currency": "CHF",
+      "value": 0.92
+    },
+    {
+      "currency": "HUF",
+      "value": 362.49
+    },
+    {
+      "currency": "NOK",
+      "value": 10.21
+    },
+    {
+      "currency": "GBP",
+      "value": 0.83
+    }
+  ],
+
+  "CHF":[
+    {
+      "currency": "CHF",
+      "value": 1
+    },
+    {
+      "currency": "PLN",
+      "value": 4.83
+    },
+    {
+      "currency": "USD",
+      "value": 1.08
+    },
+    {
+      "currency": "SEK",
+      "value": 11.33
+    },
+    {
+      "currency": "CZK",
+      "value": 24.03
+    },
+    {
+      "currency": "DKK",
+      "value": 7.54
+    },
+    {
+      "currency": "EUR",
+      "value": 1.01
+    },
+    {
+      "currency": "HUF",
+      "value": 391.89
+    },
+    {
+      "currency": "NOK",
+      "value": 11.04
+    },
+    {
+      "currency": "GBP",
+      "value": 0.90
+    }
+  ],
+
+  "GBP":[
+    {
+      "currency": "GBP",
+      "value": 1
+    },
+    {
+      "currency": "PLN",
+      "value": 5.39
+    },
+    {
+      "currency": "USD",
+      "value": 1.21
+    },
+    {
+      "currency": "SEK",
+      "value": 12.64
+    },
+    {
+      "currency": "CZK",
+      "value": 26.82
+    },
+    {
+      "currency": "DKK",
+      "value": 8.41
+    },
+    {
+      "currency": "CHF",
+      "value": 1.12
+    },
+    {
+      "currency": "HUF",
+      "value": 437.31
+    },
+    {
+      "currency": "NOK",
+      "value": 12.32
+    },
+    {
+      "currency": "EUR",
+      "value": 1.13
+    }
+  ],
+
+  "CZK":[
+    {
+      "currency": "CZK",
+      "value": 1
+    },
+    {
+      "currency": "PLN",
+      "value": 0.20
+    },
+    {
+      "currency": "USD",
+      "value": 0.045
+    },
+    {
+      "currency": "SEK",
+      "value": 0.47
+    },
+    {
+      "currency": "EUR",
+      "value": 0.042
+    },
+    {
+      "currency": "DKK",
+      "value": 0.31
+    },
+    {
+      "currency": "CHF",
+      "value": 0.042
+    },
+    {
+      "currency": "HUF",
+      "value": 16.31
+    },
+    {
+      "currency": "NOK",
+      "value": 0.46
+    },
+    {
+      "currency": "GBP",
+      "value": 0.037
+    }
+  ],
+
+  "NOK":[
+    {
+      "currency": "NOK",
+      "value": 1
+    },
+    {
+      "currency": "PLN",
+      "value": 0.44
+    },
+    {
+      "currency": "USD",
+      "value": 0.098
+    },
+    {
+      "currency": "SEK",
+      "value": 1.03
+    },
+    {
+      "currency": "CZK",
+      "value": 2.19
+    },
+    {
+      "currency": "DKK",
+      "value": 0.69
+    },
+    {
+      "currency": "CHF",
+      "value": 0.091
+    },
+    {
+      "currency": "HUF",
+      "value": 35.64
+    },
+    {
+      "currency": "EUR",
+      "value": 0.092
+    },
+    {
+      "currency": "GBP",
+      "value": 0.082
+    }
+  ],
+
+  "SEK":[
+    {
+      "currency": "SEK",
+      "value": 1
+    },
+    {
+      "currency": "PLN",
+      "value": 0.43
+    },
+    {
+      "currency": "USD",
+      "value": 0.095
+    },
+    {
+      "currency": "EUR",
+      "value": 0.089
+    },
+    {
+      "currency": "CZK",
+      "value": 2.12
+    },
+    {
+      "currency": "DKK",
+      "value": 0.67
+    },
+    {
+      "currency": "CHF",
+      "value": 0.088
+    },
+    {
+      "currency": "HUF",
+      "value": 34.59
+    },
+    {
+      "currency": "NOK",
+      "value": 0.97
+    },
+    {
+      "currency": "GBP",
+      "value": 0.079
+    }
+  ],
+  
+  "DKK":[
+    {
+      "currency": "DKK",
+      "value": 1
+    },
+    {
+      "currency": "PLN",
+      "value": 0.64
+    },
+    {
+      "currency": "USD",
+      "value": 0.14
+    },
+    {
+      "currency": "SEK",
+      "value": 1.50
+    },
+    {
+      "currency": "CZK",
+      "value": 3.19
+    },
+    {
+      "currency": "EUR",
+      "value": 0.13
+    },
+    {
+      "currency": "CHF",
+      "value": 0.13
+    },
+    {
+      "currency": "HUF",
+      "value": 51.97
+    },
+    {
+      "currency": "NOK",
+      "value": 1.46
+    },
+    {
+      "currency": "GBP",
+      "value": 0.12
+    }
+  ],
+  
+  "HUF":[
+    {
+      "currency": "HUF",
+      "value": 1
+    },
+    {
+      "currency": "PLN",
+      "value": 0.012
+    },
+    {
+      "currency": "USD",
+      "value": 0.0028
+    },
+    {
+      "currency": "SEK",
+      "value": 0.029
+    },
+    {
+      "currency": "CZK",
+      "value": 0.061
+    },
+    {
+      "currency": "DKK",
+      "value": 0.019
+    },
+    {
+      "currency": "CHF",
+      "value": 0.0026
+    },
+    {
+      "currency": "EUR",
+      "value": 0.0026
+    },
+    {
+      "currency": "NOK",
+      "value": 0.028
+    },
+    {
+      "currency": "GBP",
+      "value": 0.0023
+    }
+  ]
+ }
+]
